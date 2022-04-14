@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'mp3get'
 DESCRIPTION = 'My short description for my project.'
-URL = 'https://github.com/me/myproject'
+URL = 'https://github.com/hsw1020/mp3get/tree/master'
 EMAIL = 'w4hao@sina.com'
 AUTHOR = 'wsh'
 REQUIRES_PYTHON = '>=3.6.0'

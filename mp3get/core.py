@@ -2,7 +2,7 @@
 from turtle import down
 import requests,json
 
-class mp3get():
+class Mp3find():
     headers={
         'Cookie':'kw_token=AZD79MMMXAP',
         'csrf':'AZD79MMMXAP',
@@ -52,7 +52,3 @@ class mp3get():
             return mp3_url
         else:
             return 'get mp3 info failed!'
-
-mm=mp3get()
-aa=mm.searcher('孤勇者')
-pass
