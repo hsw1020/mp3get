@@ -1,4 +1,4 @@
-# mp3get
+# mp3get 一个可以下载mp3的库
 一个python库，可以搜索和下载任何歌曲 
 ## 安装
 pip install mp3get
