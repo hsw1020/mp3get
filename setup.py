@@ -17,12 +17,12 @@ DESCRIPTION = 'My short description for my project.'
 URL = 'https://github.com/hsw1020/mp3get/tree/master'
 EMAIL = 'w4hao@sina.com'
 AUTHOR = 'wsh'
-REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.1.0'
+REQUIRES_PYTHON = '>=3.5.0'
+VERSION = '0.3.0'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
-    # 'requests', 'maya', 'records',
+    'requests',
 ]
 
 # What packages are optional?
