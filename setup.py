@@ -12,11 +12,11 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'mypackage'
+NAME = 'mp3get'
 DESCRIPTION = 'My short description for my project.'
 URL = 'https://github.com/me/myproject'
-EMAIL = 'me@example.com'
-AUTHOR = 'Awesome Soul'
+EMAIL = 'w4hao@sina.com'
+AUTHOR = 'wsh'
 REQUIRES_PYTHON = '>=3.6.0'
 VERSION = '0.1.0'
 
